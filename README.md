@@ -1,4 +1,4 @@
-# Hypothesis Testing on Electric Car Usage for Autolib
+# Hypothesis Testing on Electric Car Usage Rates for Autolib
 
 This analysis demonstrates the hypothesis testing process on a data science project.
 
