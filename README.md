@@ -24,7 +24,7 @@ Various Python Libraries
 
 # Usage
 
-This project demonstarates how various data analysis and statistical tecniques that can be used to perform hypothesis testing and can be replicated on any data science project.
+This project demonstrates how various data analysis and statistical tecniques that can be used to perform hypothesis testing and can be replicated on any data science project.
 
 # Contributors
 
